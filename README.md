@@ -1,0 +1,2 @@
+La recomendacion que le daria a la empresa es crear este archivo readme.md para que al principio del proyecto dejen claros sus nuevas normas,politicas,modos de trabajo, etc..
+Esto sera de mucha ayuda para ellos para poder tener un orden y que todo salga a medida de lo posible de la manera que ellos quieren que salgan git i
